@@ -7,6 +7,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
   },
+  "homepage": "https://sebasjm.github.io/some-app/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
